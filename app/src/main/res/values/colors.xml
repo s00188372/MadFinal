@@ -138,8 +138,7 @@
     <color name="Teal">#008080</color>
     <color name="Green">#008000</color>
     <color name="DarkGreen">#006400</color>
-    <color name="Blue">#0000FF</color>
-    <color name="MediumBlue">#0000CD</color>
+
     <color name="Navy">#000080</color>
     <color name="Black">#000000</color>
     <item name="purple_200" type="color">#000000</item>
